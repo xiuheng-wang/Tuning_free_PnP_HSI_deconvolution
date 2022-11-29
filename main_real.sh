@@ -1,0 +1,6 @@
+python3 main_real.py --image_name 'indoor/alien/'
+python3 main_real.py --image_name 'indoor/fruit/'
+python3 main_real.py --image_name 'indoor/book/'
+python3 main_real.py --image_name 'outdoor/car/'
+python3 main_real.py --image_name 'outdoor/tree/'
+python3 main_real.py --image_name 'outdoor/bicycle/'
