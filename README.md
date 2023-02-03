@@ -22,11 +22,11 @@ For any questions, feel free to email me at xiuheng.wang@oca.eu.
 
 If this code is helpful for you, please cite our paper as follows:
 
-    @article{wang2022tuning,
+    @article{wang2023tuning,
       title={Tuning-free Plug-and-Play Hyperspectral Image Deconvolution with Deep Priors},
       author={Wang, Xiuheng and Chen, Jie and Richard, C{\'e}dric},
-      journal={arXiv preprint arXiv:2211.15307},
-      year={2022}
+      journal={IEEE Transactions on Geoscience and Remote Sensing},
+      year={2023}
     }
     @inproceedings{wang2020learning,
       title={Learning Spectral-Spatial Prior Via 3DDNCNN for Hyperspectral Image Deconvolution},
